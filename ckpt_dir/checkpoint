@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jonty/python3-test/Titanic/ckpt_dir/logistic.ckpt"
+all_model_checkpoint_paths: "/home/jonty/python3-test/Titanic/ckpt_dir/logistic.ckpt"
